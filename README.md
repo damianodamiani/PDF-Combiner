@@ -1,5 +1,5 @@
 # PDF-Combiner
-A simple Python script to combine multiple PDF files into one.
+A simple Python script to combine multiple PDF files into one PDF file.
 
 ## How to use
 1. Open the Python script in your code editor.
